@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--*** Digital Cinema XML Subtitle File ***-->
+<!--*** Created by Deluxe Digital Studios ***-->
+<!--*** 26 October 2018 ***-->
+<DCSubtitle Version="1.0">
+  <SubtitleID>16e18ea5-ba30-4c20-a2dc-69ae35122502</SubtitleID>
+  <MovieTitle>Popcorn_TH-2D_STT_R1  </MovieTitle>
+  <ReelNumber>1</ReelNumber>
+  <Language>de-fr</Language>
+  <LoadFont Id="Arial" URI="aa "/>
+  <Font Id="Arial" Color="FFFFFFFF" Effect="border" EffectColor="FF000000" Size="42" Weight="bold">
+    <Subtitle SpotNumber="1" TimeIn="00:00:48:239" TimeOut="00:00:51:177">
+      <Text HAlign="center" HPosition="0.00" VAlign="bottom" VPosition="15.74">Also gut. Ich bin dran. Ich hab einen.</Text>
+      <Text HAlign="center" HPosition="0.00" VAlign="bottom" VPosition="10.00">D'accord. A mon tour. J'en ai une.</Text>
+    </Subtitle>
+    <Subtitle SpotNumber="2" TimeIn="00:00:51:218" TimeOut="00:00:52:208">
+      <Text HAlign="center" HPosition="0.00" VAlign="bottom" VPosition="15.74">Toll, aber kannst du es</Text>
+      <Text HAlign="center" HPosition="0.00" VAlign="bottom" VPosition="10.00">D'accord, mais une qui soit</Text>
+    </Subtitle>
+  </Font>
+</DCSubtitle>
